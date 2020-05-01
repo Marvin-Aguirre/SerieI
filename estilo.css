@@ -1,9 +1,36 @@
-.border{
-    border-right: 0ch;
-    
+
+.button{
+    text-align: center;
 }
-.border2{
-border: 0ch;
-padding-top: 0ch;
+.table{
+    background-color: rgb(169, 177, 185);
+}
+.ta{
+  text-align: ;
+}
+
+.td{
+    height: 83px;
+}
+.tabla{
+    margin-left: 510px;
+    margin-top: 236px;
+   
+}
+.h1{
+    margin-left: 90px;
+}
+.parf{
+   margin-block-start: -37px;
+}
+.parf2{
+    margin-block-start: -20px;
+ }
+ .parf3{
+     margin-left: 2px;
+     margin-top: 8px;
+ }
+ .parf4{
     
+   
 }
